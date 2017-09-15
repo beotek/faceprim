@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.white{
+    color: white;
+}
+.fuente2{
+   font-family: 'Oswald', sans-serif;
+   font-weight: bold;
+}
+.orange{
+    color: orange!important;
+}
+.orange:hover{
+    color: #F9C669!important;
+}
+.fuente{
+    font-family: 'Indie Flower', cursive;
+}

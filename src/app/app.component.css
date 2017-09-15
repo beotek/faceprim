@@ -1,0 +1,61 @@
+
+    .navbar {
+    width:100%;
+    }
+
+    .navbar-toggler {
+        cursor:pointer;
+        outline:0; 
+    }
+
+    .nav-link {
+        text-transform:uppercase;
+        font-weight:bold;
+    }
+
+    .nav-item {
+        padding: 0 1rem;
+        margin-right: 10px;
+    }
+ 
+
+     hr{ 
+         margin-top:0;
+         margin-bottom:0;
+     }
+     
+
+     /* PORTADA */
+     main{
+         width: 70%;
+         margin: auto;
+     }
+
+     .leopardo{
+         background: url("http://vida20.com/wp-content/uploads/2013/09/Facebook-portadas-primaverales41.jpg");
+         background-repeat: no-repeat;
+         background-size: 100%;
+         height: 250px;
+      
+     }
+     .leopardo div{
+         background-color: rgba(14, 14, 14, 0.48);
+     }
+     #portada{
+         margin-top: 0;
+         position: relative;
+     }
+  
+
+     #perfil{
+         width: 70%;
+         position: absolute;
+         top: 70px;
+         left: 60px;
+     }
+
+     .padd{
+         padding-top: 100px;
+     }
+
+ 
